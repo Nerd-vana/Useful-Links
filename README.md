@@ -21,5 +21,8 @@ https://diagrams.mingrammer.com/
 https://structurizr.com/  
 https://plantuml.com/
 
+Command line file copy tools  
+https://rclone.org/
+
 
 SonarQube
