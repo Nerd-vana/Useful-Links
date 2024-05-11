@@ -1,11 +1,12 @@
 # Useful Links
 
-ICANN lookup :
+ICANN lookup :  
 https://lookup.icann.org/en/lookup
 
-Docker compose samples :
-https://github.com/docker/awesome-compose/tree/master
+Docker compose samples :  
+https://github.com/docker/awesome-compose  
+https://github.com/dockersamples
 
-Find my public IP :
+Find my public IP :  
 https://ident.me/
 https://whatismyipaddress.com/
