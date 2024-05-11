@@ -13,3 +13,13 @@ https://whatismyipaddress.com/
 
 Markdown cheatsheet  
 https://github.com/lifeparticle/Markdown-Cheatsheet
+
+Diagram as Code tools  
+https://mermaid.js.org/  
+https://graphviz.org/  
+https://diagrams.mingrammer.com/  
+https://structurizr.com/  
+https://plantuml.com/
+
+
+SonarQube
