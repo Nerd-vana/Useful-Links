@@ -1,4 +1,4 @@
-# Useful links
+# Useful Links
 
 ICANN lookup :
 https://lookup.icann.org/en/lookup
