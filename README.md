@@ -14,6 +14,7 @@ https://whatismyipaddress.com/
 Cheatsheets  
 markdown : https://github.com/lifeparticle/Markdown-Cheatsheet  
 kubectl : https://kubernetes.io/docs/reference/kubectl/quick-reference/  
+git : https://education.github.com/git-cheat-sheet-education.pdf  
 
 Diagram as Code tools  
 https://mermaid.js.org/  
@@ -108,7 +109,7 @@ Center for Internet Security (CIS) Controls:
 The CIS Controls framework provides a prioritized set of best practices for cyber defense. Many of these controls directly relate to OPSEC principles like access control, boundary defense, and configuration management. https://www.cisecurity.org/controls  
 
 Monitoring  
-Prometheus :  
+Prometheus : https://prometheus.io/docs/prometheus/latest/installation/  
 ELK stack :  
 
 Configuration management  
