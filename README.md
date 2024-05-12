@@ -25,4 +25,12 @@ Command line file copy tools
 https://rclone.org/
 
 
+
 SonarQube
+
+Homelab software
+Registry
+Docker registry : https://hub.docker.com/_/registry  
+Harbor registry : https://goharbor.io/  
+
+
