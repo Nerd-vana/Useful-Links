@@ -24,10 +24,6 @@ https://plantuml.com/
 Command line file copy tools  
 https://rclone.org/
 
-
-
-SonarQube
-
 Homelab software  
 
 Docker Image Registry  
@@ -64,6 +60,13 @@ traefik : https://doc.traefik.io/traefik/getting-started/quick-start/
 pound : https://github.com/graygnuorg/pound  
 nginx : https://docs.nginx.com/nginx/admin-guide/web-server/reverse-proxy/  
 
+Firewall  
+OPNsense : https://opnsense.org/about/about-opnsense/  
+pfsense : https://www.pfsense.org/  
+IPFire : https://www.ipfire.org/  
+ClearOS :  
+VyOS :  
+
 Tunnel forwarding  
 Ngrok : https://ngrok.com/  
 Localtunnel	: https://theboroer.github.io/localtunnel-www/  
@@ -84,5 +87,42 @@ Notification gateway
 Apprise : https://github.com/caronc/apprise  
 Mailrise (on top of Apprise) : https://github.com/YoRyan/mailrise  
 
+IPS  
+fail2ban : https://github.com/fail2ban/fail2ban  
+crowdsec security engine : https://docs.crowdsec.net/docs/next/intro  
+
+SIEM  
+ELK stack :  
+wazuh : https://documentation.wazuh.com/current/index.html  
+
+Security list  
+National Institute of Standards and Technology (NIST) National Vulnerability Database (NVD): https://nvd.nist.gov/  
+Open Web Application Security Project (OWASP) Top 10: https://owasp.org/www-project-top-ten/  
+SANS Institute Internet Storm Center (ISC): https://isc.sans.edu/  
+
+National Institute of Standards and Technology (NIST) Special Publication 800-161:   
+This comprehensive guide by NIST outlines a structured approach to OPSEC implementation. It provides a framework for identifying critical information, assessing threats, and developing controls. https://csrc.nist.gov/pubs/sp/800/161/r1/final  
+
+Center for Internet Security (CIS) Controls:  
+The CIS Controls framework provides a prioritized set of best practices for cyber defense. Many of these controls directly relate to OPSEC principles like access control, boundary defense, and configuration management. https://www.cisecurity.org/controls  
+
+Monitoring  
+Prometheus :  
+ELK stack :  
+
+Configuration management  
+Ansible : https://docs.ansible.com/  
+Puppet : https://www.puppet.com/support/training  
+
+IaC  
+Ansible : https://docs.ansible.com/  
+Terraform :  
+
+CI  
+Jenkins :  
+
+CD  
+Argo CD :  
+Jenkins :  
 
 
