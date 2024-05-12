@@ -11,8 +11,9 @@ Find my public IP :
 https://ident.me/  
 https://whatismyipaddress.com/
 
-Markdown cheatsheet  
-https://github.com/lifeparticle/Markdown-Cheatsheet
+Cheatsheets  
+markdown : https://github.com/lifeparticle/Markdown-Cheatsheet  
+kubectl : https://kubernetes.io/docs/reference/kubectl/quick-reference/  
 
 Diagram as Code tools  
 https://mermaid.js.org/  
