@@ -146,5 +146,5 @@ Frigate : https://frigate.video/
 Home Assistant : https://www.home-assistant.io/docs/  
 
 AI code generation  
-tabnine : https://www.tabnine.com/install/vs-code/  
+tabnine : https://www.tabnine.com/install/vs-code/ https://docs.tabnine.com/main/welcome/readme/supported-languages   
 
