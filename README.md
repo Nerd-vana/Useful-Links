@@ -135,4 +135,7 @@ CD
 Argo CD :  
 Jenkins :  
 
+Home Automation  
+Frigate : https://frigate.video/  
+Home Assistant : https://www.home-assistant.io/docs/  
 
