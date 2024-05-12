@@ -1,5 +1,9 @@
 # Useful Links
 
+Code test
+HTML/CSS/JS : https://codepen.io/  
+
+
 ICANN lookup :  
 https://lookup.icann.org/en/lookup
 
@@ -22,7 +26,9 @@ markdown : https://www.markdownguide.org/basic-syntax/
 kubectl : https://kubernetes.io/docs/reference/kubectl/generated/  https://kubernetes.io/docs/reference/generated/kubectl/kubectl-commands  
 git : https://git-scm.com/docs  
 docker : https://docs.docker.com/reference/  
-
+web : https://developer.mozilla.org/en-US/docs/Web  
+various languages : https://www.w3schools.com/  
+regex : https://regexr.com/ https://regex101.com/ https://www.debuggex.com/ https://www.regular-expressions.info/  
 
 Diagram as Code tools  
 https://mermaid.js.org/  
@@ -138,4 +144,7 @@ Jenkins :
 Home Automation  
 Frigate : https://frigate.video/  
 Home Assistant : https://www.home-assistant.io/docs/  
+
+AI code generation  
+tabnine : https://www.tabnine.com/install/vs-code/  
 
