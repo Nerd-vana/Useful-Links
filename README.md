@@ -15,6 +15,14 @@ Cheatsheets
 markdown : https://github.com/lifeparticle/Markdown-Cheatsheet  
 kubectl : https://kubernetes.io/docs/reference/kubectl/quick-reference/  
 git : https://education.github.com/git-cheat-sheet-education.pdf  
+docker : https://docs.docker.com/get-started/docker_cheatsheet.pdf  
+
+Reference  
+markdown : https://www.markdownguide.org/basic-syntax/  
+kubectl : https://kubernetes.io/docs/reference/kubectl/generated/  https://kubernetes.io/docs/reference/generated/kubectl/kubectl-commands  
+git : https://git-scm.com/docs  
+docker : https://docs.docker.com/reference/  
+
 
 Diagram as Code tools  
 https://mermaid.js.org/  
