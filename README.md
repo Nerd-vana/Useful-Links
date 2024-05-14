@@ -3,9 +3,26 @@
 Code test
 HTML/CSS/JS : https://codepen.io/  
 
+Mail tester  
+https://www.mail-tester.com/faq  
+https://gmail.com/postmaster/  
+
+https://www.dkim.org/  
+https://mxtoolbox.com/  
+
+Tools for troubleshooting  
+Microsoft Teams Network Assessment Tool:
+Call Quality Dashboard (For Admins):  
+Wireshark
+pktmon (Network Monitor)
+
+
 
 ICANN lookup :  
 https://lookup.icann.org/en/lookup
+
+Domain statistics  
+https://domainnamestat.com/
 
 Docker compose samples :  
 https://github.com/docker/awesome-compose  
