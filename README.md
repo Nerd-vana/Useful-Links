@@ -32,6 +32,28 @@ Load testing
 JMeter	
 K6	
 
+OIDC (Open ID connect)  
+Azure :  
+Google :  
+Auth0 :  
+OKTA :  
+AWS cognito :  
+
+Facebook:  
+Apple:  
+Keycloak: An open-source OIDC provider that gives you more control over the implementation. Requires technical expertise to set up and manage.  
+Ping Identity: A well-established provider offering a robust OIDC solution with strong security features.  
+
+2FA solutions
+DUO :  
+Google Authenticator: time-based one-time passwords (TOTP)   
+Microsoft Authenticator: TOTP codes for secure logins.
+Authy: This free app by Twilio offers similar functionality to Google and Microsoft Authenticator, but with additional features like multi-device support.
+
+Hardware Security Keys:
+YubiKey: 
+SMS-based Authentication:
+Biometric Authentication:
 
 ICANN lookup :  
 https://lookup.icann.org/en/lookup
