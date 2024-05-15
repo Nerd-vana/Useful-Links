@@ -22,7 +22,11 @@ mimecast : https://www.mimecast.com/
 mailcleaner : https://www.mailcleaner.org/home/  
 mailscanner : https://www.mailscanner.info/  
 
-
+Public Blackhole Lists (DNSBLs):  
+Spamhaus Block List (SBL): (https://www.spamhaus.org/blocklists/spamhaus-blocklist/) A well-known DNSBL maintained by Spamhaus, a non-profit organization focused on email security.  
+SURBL (Spam URI Relay Block List): (https://www.surbl.org/) A DNSBL that identifies relays known to be sources of spam.  
+XBL Exploits Block List: (https://www.spamhaus.org/blocklists/exploits-blocklist/) A list of IPs associated with known exploit kits and malware.  
+DNSBL.info: (https://www.dnsbl.info/) A comprehensive resource with information on various DNSBLs.  
 
 ICANN lookup :  
 https://lookup.icann.org/en/lookup
