@@ -1,5 +1,19 @@
 # Useful Links
 
+gcloud reference  
+https://cloud.google.com/sdk/gcloud/reference  
+https://cloud.google.com/sdk  
+
+Google script  
+https://developers.google.com/apps-script/reference/  
+
+Microsoft Documentation  
+https://learn.microsoft.com/en-us/docs/  
+
+PowerShell module reference  
+https://learn.microsoft.com/en-us/powershell/module/
+
+
 Code test
 HTML/CSS/JS : https://codepen.io/  
 
