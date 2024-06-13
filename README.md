@@ -107,6 +107,8 @@ https://plantuml.com/
 
 Command line file copy tools  
 https://rclone.org/
+rsync
+
 
 Homelab software  
 
